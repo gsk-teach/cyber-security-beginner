@@ -14,4 +14,6 @@ A beginner course on cyber security
 
 # Lab Setup
 1. Download VMPlayer and custom Kali Linux image from zSecurity Site
-2. `sudo apt update`
+2. Perform `sudo apt update` to ensure package repos are updated
+3. Install Terminator (if not available) - `sudo apt install terminaror`
+4. > Visit `explainshell.com` to understand the linux commands 
