@@ -1,4 +1,4 @@
-# cyber-security-beginner
+# About the course
 A beginner course on cyber security
 
 # Contents
