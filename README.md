@@ -3,7 +3,7 @@ A beginner course on cyber security
 
 # Contents
 1. Cyber Security Introduction
-2. Lab Setup 
+2. Lab Setup
 3. Linux Basics
 4. Network Hacking Preparations
 5. Preconnection attacks
@@ -12,3 +12,6 @@ A beginner course on cyber security
 8. Network Hacking - Securing your network
 
 
+# Lab Setup
+1. Download VMPlayer and custom Kali Linux image from zSecurity Site
+2. `sudo apt update`
